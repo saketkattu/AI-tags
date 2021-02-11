@@ -1,4 +1,4 @@
-# ML-Ops: Application to search  and recomends a project (based on tags)
+# ML-Ops: Application to search  and recomend a project (based on tags)
 
 ## Objective and Current Situation
  We an application where users search for projects using tags.Our objective is to improve search and discoverability.
