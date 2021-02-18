@@ -1,0 +1,220 @@
+{
+  "overall": {
+    "precision": 0.34976369495166487,
+    "recall": 0.2389525693244905,
+    "f1": 0.25651611949847763,
+    "num_samples": 480.0
+  },
+  "class": {
+    "attention": {
+      "precision": 0.25,
+      "recall": 0.1111111111111111,
+      "f1": 0.15384615384615383,
+      "num_samples": 18.0
+    },
+    "autoencoders": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 6.0
+    },
+    "computer-vision": {
+      "precision": 0.36428571428571427,
+      "recall": 0.8793103448275862,
+      "f1": 0.5151515151515151,
+      "num_samples": 58.0
+    },
+    "convolutional-neural-networks": {
+      "precision": 0.25,
+      "recall": 0.125,
+      "f1": 0.16666666666666666,
+      "num_samples": 16.0
+    },
+    "data-augmentation": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 8.0
+    },
+    "embeddings": {
+      "precision": 0.8,
+      "recall": 0.3333333333333333,
+      "f1": 0.47058823529411764,
+      "num_samples": 12.0
+    },
+    "flask": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 5.0
+    },
+    "generative-adversarial-networks": {
+      "precision": 0.2857142857142857,
+      "recall": 0.18181818181818182,
+      "f1": 0.2222222222222222,
+      "num_samples": 11.0
+    },
+    "graph-neural-networks": {
+      "precision": 0.6666666666666666,
+      "recall": 0.3333333333333333,
+      "f1": 0.4444444444444444,
+      "num_samples": 6.0
+    },
+    "graphs": {
+      "precision": 0.7777777777777778,
+      "recall": 0.5833333333333334,
+      "f1": 0.6666666666666666,
+      "num_samples": 12.0
+    },
+    "huggingface": {
+      "precision": 0.5,
+      "recall": 0.1,
+      "f1": 0.16666666666666669,
+      "num_samples": 10.0
+    },
+    "image-classification": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 10.0
+    },
+    "interpretability": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.33333333333333337,
+      "num_samples": 10.0
+    },
+    "keras": {
+      "precision": 0.5714285714285714,
+      "recall": 0.2222222222222222,
+      "f1": 0.32,
+      "num_samples": 18.0
+    },
+    "language-modeling": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 8.0
+    },
+    "natural-language-processing": {
+      "precision": 0.40601503759398494,
+      "recall": 0.84375,
+      "f1": 0.5482233502538072,
+      "num_samples": 64.0
+    },
+    "node-classification": {
+      "precision": 1.0,
+      "recall": 0.5714285714285714,
+      "f1": 0.7272727272727273,
+      "num_samples": 7.0
+    },
+    "object-detection": {
+      "precision": 0.3333333333333333,
+      "recall": 0.2727272727272727,
+      "f1": 0.3,
+      "num_samples": 11.0
+    },
+    "pretraining": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 5.0
+    },
+    "production": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 7.0
+    },
+    "pytorch": {
+      "precision": 0.25,
+      "recall": 0.3333333333333333,
+      "f1": 0.28571428571428575,
+      "num_samples": 39.0
+    },
+    "question-answering": {
+      "precision": 0.3333333333333333,
+      "recall": 0.5,
+      "f1": 0.4,
+      "num_samples": 2.0
+    },
+    "regression": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 8.0
+    },
+    "reinforcement-learning": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 9.0
+    },
+    "representation-learning": {
+      "precision": 0.6666666666666666,
+      "recall": 0.5,
+      "f1": 0.5714285714285715,
+      "num_samples": 8.0
+    },
+    "scikit-learn": {
+      "precision": 0.3333333333333333,
+      "recall": 0.2222222222222222,
+      "f1": 0.26666666666666666,
+      "num_samples": 9.0
+    },
+    "segmentation": {
+      "precision": 0.6666666666666666,
+      "recall": 0.4,
+      "f1": 0.5,
+      "num_samples": 10.0
+    },
+    "self-supervised-learning": {
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "num_samples": 6.0
+    },
+    "tensorflow": {
+      "precision": 0.3142857142857143,
+      "recall": 0.34375,
+      "f1": 0.3283582089552239,
+      "num_samples": 32.0
+    },
+    "tensorflow-js": {
+      "precision": 0.6666666666666666,
+      "recall": 0.3333333333333333,
+      "f1": 0.4444444444444444,
+      "num_samples": 6.0
+    },
+    "time-series": {
+      "precision": 0.5,
+      "recall": 0.2,
+      "f1": 0.28571428571428575,
+      "num_samples": 5.0
+    },
+    "transfer-learning": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 7.0
+    },
+    "transformers": {
+      "precision": 0.3055555555555556,
+      "recall": 0.44,
+      "f1": 0.36065573770491804,
+      "num_samples": 25.0
+    },
+    "unsupervised-learning": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 6.0
+    },
+    "wandb": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 6.0
+    }
+  }
+}
