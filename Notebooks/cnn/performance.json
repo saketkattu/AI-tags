@@ -1,8 +1,8 @@
 {
   "overall": {
-    "precision": 0.8382002761132143,
-    "recall": 0.4829912821168979,
-    "f1": 0.5778213488459711,
+    "precision": 0.8228961917603603,
+    "recall": 0.48522342497404075,
+    "f1": 0.5791385398227955,
     "num_samples": 480.0
   },
   "class": {
@@ -19,15 +19,15 @@
       "num_samples": 6.0
     },
     "computer-vision": {
-      "precision": 0.6086956521739131,
+      "precision": 0.5833333333333334,
       "recall": 0.7241379310344828,
-      "f1": 0.6614173228346457,
+      "f1": 0.6461538461538462,
       "num_samples": 58.0
     },
     "convolutional-neural-networks": {
       "precision": 1.0,
-      "recall": 0.125,
-      "f1": 0.2222222222222222,
+      "recall": 0.1875,
+      "f1": 0.3157894736842105,
       "num_samples": 16.0
     },
     "data-augmentation": {
@@ -97,9 +97,9 @@
       "num_samples": 8.0
     },
     "natural-language-processing": {
-      "precision": 0.8135593220338984,
-      "recall": 0.75,
-      "f1": 0.7804878048780488,
+      "precision": 0.8032786885245902,
+      "recall": 0.765625,
+      "f1": 0.784,
       "num_samples": 64.0
     },
     "node-classification": {
@@ -181,9 +181,9 @@
       "num_samples": 32.0
     },
     "tensorflow-js": {
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 0.16666666666666666,
-      "f1": 0.2857142857142857,
+      "f1": 0.25,
       "num_samples": 6.0
     },
     "time-series": {
