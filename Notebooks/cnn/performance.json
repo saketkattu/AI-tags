@@ -1,15 +1,15 @@
 {
   "overall": {
-    "precision": 0.8228961917603603,
-    "recall": 0.48522342497404075,
-    "f1": 0.5791385398227955,
+    "precision": 0.8230372567294096,
+    "recall": 0.4863642979899138,
+    "f1": 0.580268181774235,
     "num_samples": 480.0
   },
   "class": {
     "attention": {
       "precision": 1.0,
-      "recall": 0.5555555555555556,
-      "f1": 0.7142857142857143,
+      "recall": 0.6111111111111112,
+      "f1": 0.7586206896551725,
       "num_samples": 18.0
     },
     "autoencoders": {
@@ -19,9 +19,9 @@
       "num_samples": 6.0
     },
     "computer-vision": {
-      "precision": 0.5833333333333334,
+      "precision": 0.5915492957746479,
       "recall": 0.7241379310344828,
-      "f1": 0.6461538461538462,
+      "f1": 0.6511627906976745,
       "num_samples": 58.0
     },
     "convolutional-neural-networks": {
@@ -97,9 +97,9 @@
       "num_samples": 8.0
     },
     "natural-language-processing": {
-      "precision": 0.8032786885245902,
-      "recall": 0.765625,
-      "f1": 0.784,
+      "precision": 0.8,
+      "recall": 0.75,
+      "f1": 0.7741935483870969,
       "num_samples": 64.0
     },
     "node-classification": {
