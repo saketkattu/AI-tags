@@ -14,8 +14,8 @@ import yaml
 from numpyencoder import NumpyEncoder
 from optuna.integration.mlflow import MLflowCallback
 
-from ml-scripts import config, predict, train, utils
-from ml-scripts.config import logger
+from ml_scripts import config, predict, train, utils
+from ml_scripts.config import logger
 
 # Ignore warning
 warnings.filterwarnings("ignore")
