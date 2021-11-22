@@ -1,4 +1,4 @@
-# ML-Ops: Application to search  and recomend tags for Projects 
+# Recomendation of Relavent Tags for Github Projects ( Based on ML-OPS)
 
 ## Objective and Current Situation
  We an application where users search for projects using tags.Our objective is to improve search and discoverability.
